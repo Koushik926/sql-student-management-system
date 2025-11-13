@@ -49,5 +49,3 @@ This SQL project manages student data using SQLite. It supports CRUD operations 
 
 ## Notes
 - All SQL queries provided in `queries.sql`
-- Clean code, beginner-friendly
-- Fully ready to upload to GitHub
